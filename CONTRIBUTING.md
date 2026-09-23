@@ -1,33 +1,35 @@
-# Contributing to Crystal-Studio-Community
+# Contributing to Odisha Students Code Community (OSCC) ❤️
 
-Thank you for choosing to contribute to Crystal-Studio-Community! We are excited to have you in our community.
+Thank you for choosing to contribute to **Odisha Students Code Community (OSCC)**! We are excited to welcome you.
 
-This guide provides guidelines and workflows for contributing to our repositories.
+This organization-level guide provides baseline workflows for contributing to any repository under [github.com/Odisha-Students-Code-Community](https://github.com/Odisha-Students-Code-Community).
 
 ---
 
 ## 🌟 Code of Conduct
-
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any unacceptable behavior to the community admins.
-
-## 🚀 How Can I Contribute?
-
-### 1. Practice Git & GitHub
-If you are new to Git and GitHub, start by making a contribution to our **[opensource-playground](https://github.com/Crystal-Studio-Community/opensource-playground)** repository! It's a risk-free playground designed specifically for practice.
-
-### 2. Report Bugs or Request Features
-Open an issue in the respective repository:
-- Search existing issues to ensure it hasn't been reported.
-- Use a clear and descriptive title.
-- Provide steps to reproduce, expected results, and actual results (for bugs).
-
-### 3. Submit Pull Requests (PRs)
-1. **Fork** the repository and create your branch from `main`.
-2. Keep your branch name clear (e.g., `feature/add-login` or `bugfix/fix-header`).
-3. Commit your changes with clear, concise messages.
-4. Open a **Pull Request** and describe what your changes do.
-5. A maintainer will review your PR as soon as possible!
+By participating in OSCC projects, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please be kind, supportive, and patient with beginners.
 
 ---
 
-Thank you for making Crystal-Studio-Community awesome! ❤️
+## 🚀 How to Get Started
+
+### 1. Make Your First Contribution
+If you are new to open-source or Git, start with our official website repository:
+👉 **[Odisha-Students-Code-Community.github.io](https://github.com/Odisha-Students-Code-Community/Odisha-Students-Code-Community.github.io)**  
+Read our beginner-friendly [How to Contribute Guide](https://odisha-students-code-community.github.io/pages/contribute.html).
+
+### 2. Report Bugs or Suggest Ideas
+- Check existing issues before opening a new one.
+- Use our structured issue templates.
+- Provide clear steps to reproduce for bug tickets.
+
+### 3. Pull Request Guidelines
+1. Fork the target repository and create your branch from `main`.
+2. Name your branch descriptively: `feat/add-feature` or `fix/nav-link`.
+3. Use Conventional Commits (`feat:`, `fix:`, `docs:`, `style:`).
+4. Verify your code locally before pushing.
+5. Open a Pull Request! Maintainers review PRs promptly and constructively.
+
+---
+
+Thank you for building software together in public! ❤️

@@ -1,32 +1,55 @@
 <div align="center">
 
-# 💎 Crystal Studio Community
+# Odisha Students Code Community (OSCC) ❤️
 
-[![Join Crystal Studio](https://img.shields.io/badge/Join%20Crystal%20Studio%20-%230078D7.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crystal-Studio-Community/Connect/issues/new?template=invitation.yml)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord-link-here)
+> **Students in Odisha building software together — in public.**
+
+[![Join OSCC](https://img.shields.io/badge/Join%20OSCC-Get%20Invited-E52E2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Odisha-Students-Code-Community/Connect/issues/new?template=invitation.yml)
+[![Official Website](https://img.shields.io/badge/Website-OSCC%20Portal-101010?style=for-the-badge&logo=google-chrome&logoColor=white)](https://odisha-students-code-community.github.io/)
+[![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Student%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/invite/OSCC)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@oscc.bsky.social-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/oscc.bsky.social)
 
 ---
 
-### 👋 Welcome to the home of open source at Crystal Studio!
+### 👋 Welcome to the open-source hub of OSCC!
 
-We are a community-driven organization focused on collaboration, learning, and building innovative software together. Whether you are a beginner writing your first line of code or an experienced engineer, there is a place for you here.
+**Odisha Students Code Community (OSCC)** is a student-driven, 100% free open-source technology movement connecting student developers, designers, and enthusiasts across colleges, polytechnics, and universities in Odisha, India.
+
+Our philosophy: **Students should not only learn about software development. They should actually build software together.**
 
 </div>
 
+---
+
 ### 🚀 Key Repositories
 
-- 📦 **[Connect](https://github.com/Crystal-Studio-Community/Connect)**: The gateway to our community. Request invites, report issues, or get meta-support.
-- 🎨 **[crystal-showcase](https://github.com/Crystal-Studio-Community/crystal-showcase)**: Show off your GitHub profiles, portfolios, and design layouts.
-- 🛠️ **[opensource-playground](https://github.com/Crystal-Studio-Community/opensource-playground)**: Practice making your first pull requests, committing code, and learning Git basics.
-
-### 🤝 How to Join
-
-1. Click the **[Join Crystal Studio](https://github.com/Crystal-Studio-Community/Connect/issues/new?template=invitation.yml)** badge above.
-2. Fill out the quick onboarding issue form.
-3. Submit the issue. Our bot will immediately process it, send you a GitHub Organization invitation, and close the issue.
-4. Check your email or go to **[github.com/Crystal-Studio-Community](https://github.com/Crystal-Studio-Community)** to accept!
+- 🌐 **[Odisha-Students-Code-Community.github.io](https://github.com/Odisha-Students-Code-Community/Odisha-Students-Code-Community.github.io)**: The official Industrial Brutalist website for OSCC. Pure HTML/CSS/JS without heavy frameworks. Open for students to make their first pull requests!
+- 🤝 **[Connect](https://github.com/Odisha-Students-Code-Community/Connect)**: Automated student onboarding bot. Raise an issue to automatically receive an invitation to join our GitHub organization!
+- 📜 **[.github](https://github.com/Odisha-Students-Code-Community/.github)**: Master organization profile, community health files, and governance guidelines.
 
 ---
+
+### 🤝 How to Join OSCC
+
+1. Click the **[Join OSCC](https://github.com/Odisha-Students-Code-Community/Connect/issues/new?template=invitation.yml)** badge above to open an invitation request.
+2. Fill out the quick issue template (name, college, interests).
+3. Submit the issue. Our IssueOps bot will automatically invite you to the organization and close the issue.
+4. Check your email or notifications to accept the invitation!
+5. Remember to **switch your organization membership to Public** on the [People list](https://github.com/orgs/Odisha-Students-Code-Community/people) so the OSCC badge appears on your profile!
+
+---
+
+### 🌟 Core Community Values
+
+- 🔨 **BUILD**: Learn by writing real code and shipping public projects.
+- 🤝 **CONTRIBUTE**: Give back to open-source software and build a verifiable portfolio.
+- 🌐 **COLLABORATE**: Break college silos and work with peers across all 30 districts of Odisha.
+- 💡 **LEARN**: Ask questions freely without gatekeeping or elitism.
+- 📢 **SHARE**: Distribute hackathon leads, opportunities, and technical knowledge.
+- 🚀 **GROW**: Turn student projects into public proof-of-work.
+
+---
+
 <div align="center">
-  <sub>Built with ❤️ by the Crystal Studio Community</sub>
+  <sub>Built with ❤️ by student developers across Odisha, India.</sub>
 </div>

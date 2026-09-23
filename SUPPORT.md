@@ -1,30 +1,34 @@
-# Support Guidelines
+# Support Guidelines ❤️
 
-Welcome to the Crystal-Studio-Community Support guide! If you are facing issues, have questions, or need help with any of our projects, here is how you can reach out.
+Welcome to the **Odisha Students Code Community (OSCC)** support guide! If you have questions, encounter technical difficulties, or want advice on contributing, here is how you can reach out.
 
 ---
 
-## 💬 Community Support
+## 💬 Community Support Channels
 
-We recommend using public channels so that other community members can learn from the discussion:
+We encourage using public community channels so that all students can learn together:
 
-1. **GitHub Discussions:**
-   - Head over to the **Discussions** tab in any of our core repositories (like `Connect`).
-   - Use this for general questions, showcasing your work, proposing new ideas, or checking for setup support.
+1. **GitHub Issues & Discussions:**
+   - Head over to [OSCC Connect](https://github.com/Odisha-Students-Code-Community/Connect) or our [Website Repository](https://github.com/Odisha-Students-Code-Community/Odisha-Students-Code-Community.github.io/issues).
+   - Use issues for bug reports, project proposals, campus lead inquiries, and feature suggestions.
 
-2. **Discord Server:**
-   - Join our Discord server to connect with developers in real time.
-   - Ideal for quick help, general chatting, and collaboration events.
+2. **WhatsApp Community:**
+   - Join our verified student group chat: [OSCC WhatsApp Community](https://chat.whatsapp.com/invite/OSCC).
+   - Best for fast peer support, doubt clearing, and study jam coordination.
+
+3. **Official Announcements:**
+   - Stay updated on events, hackathons, and workshops via our [WhatsApp Channel](https://whatsapp.com/channel/OSCC) and [Bluesky](https://bsky.app/profile/oscc.bsky.social).
+
+---
 
 ## 🛠️ Technical Support & Bug Reports
 
-If you've encountered a bug or want to request a technical feature:
+If you've encountered a bug on the website or any OSCC tool:
 
-1. **Open an Issue:**
-   - Go to the repository of the project where you encountered the issue.
-   - Click **New Issue** and select the appropriate template.
-   - Describe the issue clearly with error logs or screenshots if possible.
+1. Go to the relevant repository's **Issues** tab.
+2. Click **New Issue** and select the appropriate template (Bug Report / Feature Request).
+3. Provide descriptive details, device info, and screenshots where possible.
 
 ---
 
-Thank you for being part of our community! 💎
+Thank you for being part of Odisha Students Code Community! ❤️

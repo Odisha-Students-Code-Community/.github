@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://odisha-students-code-community.github.io/">
+  <img src="https://raw.githubusercontent.com/Odisha-Students-Code-Community/.github/main/assets/icons/Full-Logo.png" alt="Odisha Students Code Community (OSCC)" width="640" />
+</a>
+
 # Odisha Students Code Community (OSCC) ❤️
 
 > **Students in Odisha building software together — in public.**
